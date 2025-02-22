@@ -1,5 +1,5 @@
 import pytest
 
 @pytest.fixture
-async def value() -> int:
+def value() -> int:
     return 2

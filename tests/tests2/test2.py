@@ -1,3 +1,2 @@
-
-async def test2(value):
+def test2(value):
     assert value == 2
